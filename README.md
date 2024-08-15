@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Tarefas
 
-Este é um sistema simples de gerenciamento de tarefas em Java, que permite aos usuários adicionar, remover e marcar tarefas como concluídas. O projeto é desenvolvido utilizando conceitos de Programação Orientada a Objetos (POO) e segue princípios de código limpo.
+Este é um sistema simples de gerenciamento de tarefas em Java, que permite aos usuários adicionar, remover e marcar tarefas como concluídas. O projeto é desenvolvido utilizando conceitos de Programação Orientada a Objetos (POO).
 
 ## Funcionalidades
 
@@ -71,4 +71,4 @@ https://github.com/user-attachments/assets/4e075860-b290-43fd-805f-9b058f52761b
 ## Contribuições
 
 Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar algum bug, fique à vontade para abrir uma issue ou enviar um pull request.
-Projeto para fins de estudo academico em java.
+Projeto para fins de estudo acadêmico em Java.
