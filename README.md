@@ -19,7 +19,7 @@ Este é um sistema simples de gerenciamento de tarefas em Java, que permite aos 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/sistema-gerenciamento-tarefas.git
+    git clone https://github.com/DaviPereiraL/Sistema-de-Gerenciamento-de-Tarefas---JAVA.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
